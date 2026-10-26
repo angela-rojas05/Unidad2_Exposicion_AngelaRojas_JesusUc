@@ -144,3 +144,10 @@ Este repositorio reúne los materiales de apoyo para la exposición de la Unidad
 La presentación resume los puntos principales, mientras que el borrador y el reporte desarrollan la explicación con mayor detalle.
 
 El propósito es comprender cómo Redis puede utilizarse como herramienta de backend para mejorar el acceso a información consultada frecuentemente.
+
+
+## Video de la exposición
+
+La exposición sobre Redis se encuentra disponible en Google Drive.
+
+[Ver video de la exposición sobre Redis](https://drive.google.com/drive/folders/1lZ_qmOiKf2lqj7vhd6hvGAeFbLPJPA8g?usp=sharing)
