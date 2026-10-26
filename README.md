@@ -2,7 +2,7 @@
 
 Material de la exposición de la **Unidad II: Exposición de una herramienta de backend**, para la materia **Fundamentos de Arquitectura de Software y Desarrollo Backend**.
 
-**Integrantes:** Jesús Omar Uc Domínguez y Ángela Yaritzi Rojas Brito  
+**Integrantes:** Jesús Omar Uc Domínguez, Ángela Yaritzi Rojas Brito y Angel Abraham Lugo Saenz 
 **Grupo:** 4-B  
 **Institución:** Instituto Tecnológico de Software  
 **Tecnología:** Redis
